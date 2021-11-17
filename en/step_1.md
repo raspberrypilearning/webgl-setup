@@ -6,7 +6,7 @@ Click on the **File** menu and select **Build Settings...**.
 
 ![File menu selected and Build Settings highlighted](images/1_file_build_settings.png)
 
-On the next screen select **WebGL** and click on the **Install with Unity Hub**
+On the next screen select **WebGL** and click on the **Install with Unity Hub** button.
 
 ![WebGL option selected and the Install with Unity Hub button highlighted](images/2_install_webgl.png)
 
@@ -14,9 +14,9 @@ On the next screen, click the **Install** button, then wait for the WebGL module
 
 ![Add modules screen with Install button highlighted](images/3_add_modules.png)
 
-Once the modules has installed, you can close Unity Hub and then close Unity and restart it.
+Once the module has installed, you can close Unity Hub and then close Unity and restart it.
 
-Once Unity has opened, check that the **Build Settings...** from the **File** menu have updated, and showing that WebGL has been installed. Then click on the **Player Settings...** button
+Once Unity has opened, check that the **Build Settings** from the **File** menu have updated, and showing that WebGL has been installed. Then click on the **Player Settings** button
 
 ![Build Settings window shown with the WebGL options highlighted and the Player Settings button highlighted](images/5_webgl_installed.png)
 
