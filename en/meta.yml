@@ -1,11 +1,9 @@
-title: webgl-setup
+title: Sharing Unity projects
 hero_image: images/banner.png
-description: webgl-setup description
+description: How to share projects built with Unity
 version: 4
 listed: false
 copyedit: false
-last_tested: "2021-11-17"
+last_tested: "2021-11-16"
 steps:
-  - title: Introduction
-  - title: Step title
-  - title: What next?
+  - title: Sharing Unity projects

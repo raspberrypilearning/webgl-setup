@@ -1,59 +1,27 @@
-## Introduction
+## Setup Unity for WebGL export
 
-Add project description here. What will learners be making? Broadly what skills will they be learning?
+If this is your first time exporting a project to WebGL, you need to change your build settings.
 
-### What you will make
+Click on the **File** menu and select **Build Settings...**.
 
---- no-print ---
-Add instructions for interacting with the embedded content here.
+![File menu selected and Build Settings highlighted](images/1_file_build_settings.png)
 
-<div class="scratch-preview">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/160619869/?autostart=false" frameborder="0"></iframe>
-</div>
---- /no-print ---
+On the next screen select **WebGL** and click on the **Install with Unity Hub**
 
---- print-only ---
-![Complete project](images/showcase_static.png)
---- /print-only ---
+![WebGL option selected and the Install with Unity Hub button highlighted](images/2_install_webgl.png)
 
---- collapse ---
----
-title: What you will need
----
-### Hardware
+On the next screen, click the **Install** button, then wait for the WebGL module to be installed.
 
-+ A computer or tablet capable of running Scratch 3
+![Add modules screen with Install button highlighted](images/3_add_modules.png)
 
-### Software
+Once the modules has installed, you can close Unity Hub and then close Unity and restart it.
 
-+ Scratch 3 (either [online](https://scratch.mit.edu/){:target="_blank"} or [offline](https://scratch.mit.edu/download){:target="_blank"})
-+ Python 3
-+ This project can be completed in a web browser using [trinket.io](https://trinket.io/)
+Once Unity has opened, check that the **Build Settings...** from the **File** menu have updated, and showing that WebGL has been installed. Then click on the **Player Settings...** button
 
-### Downloads
+![Build Settings window shown with the WebGL options highlighted and the Player Settings button highlighted](images/5_webgl_installed.png)
 
-+ Download the project [starter file](http://rpf.io/p/en/projectName-go){:target="_blank"} if working offline
+From the **Player** menu on the left, in the collapsible menu for **Publishing Settings**, select **Disabled** from the **Compression Format** options.
 
---- /collapse ---
+![Project setting window with the Player menu highlighted and the Compression format set to Disabled and highlighted](images/6_disable_compression.png)
 
---- collapse ---
----
-title: What you will learn
----
-
-+ Learning objective 1
-+ Learning objective 2
-+ Learning objective 3
-
---- /collapse ---
-
---- collapse ---
----
-title: Additional information for educators
----
-
-You can download the completed project [here](http://rpf.io/p/en/projectName-get){:target="_blank"}.
-
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/projectName/print){:target="_blank"}.
-
---- /collapse ---
+You can close the settings window and now move on to building the project.
