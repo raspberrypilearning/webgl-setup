@@ -1,5 +1,3 @@
-## Setup Unity for WebGL export
-
 If this is your first time exporting a project to WebGL, you need to change your build settings.
 
 Click on the **File** menu and select **Build Settings...**.
