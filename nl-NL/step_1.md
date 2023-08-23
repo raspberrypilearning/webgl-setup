@@ -1,25 +1,25 @@
 If this is your first time exporting a project to WebGL, you need to change your build settings.
 
-Click on the **File** menu and select **Build Settings...**.
+Klik op het **File** menu en selecteer **Build Settings...**.
 
-![File menu selected and Build Settings highlighted](images/1_file_build_settings.png)
+![File menu geselecteerd en Build settings gemarkeerd](images/1_file_build_settings.png)
 
-On the next screen select **WebGL** and click on the **Install with Unity Hub** button.
+Selecteer in het volgende scherm **WebGL** en klik op de **Install with Unity Hub** knop.
 
-![WebGL option selected and the Install with Unity Hub button highlighted](images/2_install_webgl.png)
+![WebGL optie geselecteerd en de Install with Unity Hub knop gemarkeerd](images/2_install_webgl.png)
 
-On the next screen, click the **Install** button, then wait for the WebGL module to be installed.
+Klik in het volgende scherm op de **Install** knop en wacht tot de WebGL-module is geïnstalleerd.
 
-![Add modules screen with Install button highlighted](images/3_add_modules.png)
+![Add modules scherm met Install button gemarkeerd](images/3_add_modules.png)
 
-Once the module has installed, you can close Unity Hub and then close Unity and restart it.
+Zodra de module geïnstalleerd is, kun je Unity Hub sluiten en daarna Unity sluiten en opnieuw starten.
 
-Once Unity has opened, check that the **Build Settings** from the **File** menu have updated, and showing that WebGL has been installed. Then click on the **Player Settings** button
+Nadat Unity opnieuw is geopend, controleer je of de **Build Settings...** in het **File** menu zijn bijgewerkt en dat WebGL is geïnstalleerd. Klik vervolgens op de knop **Player Settings...**
 
-![Build Settings window shown with the WebGL options highlighted and the Player Settings button highlighted](images/5_webgl_installed.png)
+![Build settings venster wordt weergegeven met de WebGL opties gemarkeerd en de Player Settings button gemarkeerd](images/5_webgl_installed.png)
 
-From the **Player** menu on the left, in the collapsible menu for **Publishing Settings**, select **Disabled** from the **Compression Format** options.
+Selecteer in het menu **Player** aan de linkerkant in het inklapbare menu van **Publishing Settings** **Disabled** bij de **Compression Format** opties.
 
-![Project setting window with the Player menu highlighted and the Compression format set to Disabled and highlighted](images/6_disable_compression.png)
+![Project setting venster met het Player menu gemarkeerd en de Compression format ingesteld op Disabled en gemarkeerd](images/6_disable_compression.png)
 
-You can close the settings window and now move on to building the project.
+Je kunt het settings venster sluiten en verder gaan met het bouwen van je project.
