@@ -1,25 +1,25 @@
-If this is your first time exporting a project to WebGL, you need to change your build settings.
+Si c'est la première fois que tu exportes un projet en WebGL, tu dois modifier tes build settings.
 
-Click on the **File** menu and select **Build Settings...**.
+Clique sur le menu **File** et sélectionne **Build Settings...**.
 
-![File menu selected and Build Settings highlighted](images/1_file_build_settings.png)
+![Menu File sélectionné et Build Settings en surbrillance](images/1_file_build_settings.png)
 
-On the next screen select **WebGL** and click on the **Install with Unity Hub** button.
+Sur l'écran suivant, sélectionne **WebGL** et clique sur le bouton **Install with Unity Hub**.
 
-![WebGL option selected and the Install with Unity Hub button highlighted](images/2_install_webgl.png)
+![L'option WebGL est sélectionnée et le bouton Install with Unity Hub en surbrillance](images/2_install_webgl.png)
 
-On the next screen, click the **Install** button, then wait for the WebGL module to be installed.
+Sur l'écran suivant, clique sur le bouton **Install**, puis attends que le module WebGL soit installé.
 
-![Add modules screen with Install button highlighted](images/3_add_modules.png)
+![Écran Add modules avec le bouton Install en surbrillance](images/3_add_modules.png)
 
-Once the module has installed, you can close Unity Hub and then close Unity and restart it.
+Une fois le module installé, tu peux fermer Unity Hub, puis fermer Unity et le redémarrer.
 
-Once Unity has opened, check that the **Build Settings** from the **File** menu have updated, and showing that WebGL has been installed. Then click on the **Player Settings** button
+Une fois Unity ouvert, vérifie que les **Build Settings** du menu **File** ont été mis à jour, et montre que WebGL a été installé. Clique ensuite sur le bouton **Player Settings**
 
-![Build Settings window shown with the WebGL options highlighted and the Player Settings button highlighted](images/5_webgl_installed.png)
+![La fenêtre Build Settings est affichée avec les options WebGL en surbrillance et le bouton Player Settings en surbrillance](images/5_webgl_installed.png)
 
-From the **Player** menu on the left, in the collapsible menu for **Publishing Settings**, select **Disabled** from the **Compression Format** options.
+Dans le menu **Player** de gauche, dans le menu déroulant **Publishing Settings**, sélectionne **Disabled** parmi les options **Compression Format**.
 
-![Project setting window with the Player menu highlighted and the Compression format set to Disabled and highlighted](images/6_disable_compression.png)
+![Fenêtre Project setting avec le menu Player en surbrillance et Compression format défini sur Disabled et en surbrillance](images/6_disable_compression.png)
 
-You can close the settings window and now move on to building the project.
+Tu peux fermer la fenêtre des paramètres et passer maintenant à la création du projet.
