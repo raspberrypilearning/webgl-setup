@@ -1,4 +1,4 @@
-If this is your first time exporting a project to WebGL, you need to change your build settings.
+Als dit de eerste keer is dat je een project exporteert naar WebGL, moet je je build-instellingen wijzigen.
 
 Klik op het **File** menu en selecteer **Build Settings...**.
 
